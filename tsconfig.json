@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "strict": true,
+    "strictPropertyInitialization": false,
+    "allowSyntheticDefaultImports": true,
     "target": "ES2020",
     "moduleResolution": "node",
     "allowJs": true,
